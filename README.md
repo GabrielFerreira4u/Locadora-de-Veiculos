@@ -5,6 +5,8 @@
 Sistema web para gerenciar uma locadora de veículos: frota, clientes e todo o ciclo
 de locação (retirada, vistorias, pagamentos, devolução e nota fiscal).
 
+**OBS** Os arquivos .zip devem ser descompactados antes da execução.
+
 **Tecnologias:** React · TypeScript · Vite · React Router · Bootstrap · JSON Server · Axios
 
 ## Como executar
