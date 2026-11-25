@@ -61,4 +61,15 @@ src/
 
 ## Prints das telas
 
-_(adicione aqui os prints das principais telas)_
+**Tela Inicial**
+
+<img width="1913" height="727" alt="image" src="https://github.com/user-attachments/assets/9278c3b2-751d-4196-af9a-033444b1c632" />
+
+<img width="1885" height="596" alt="image" src="https://github.com/user-attachments/assets/58b12c28-26c0-48aa-97f3-91fb87ea2aa8" />
+
+**Tela Clientes**
+
+<img width="1916" height="601" alt="image" src="https://github.com/user-attachments/assets/6a3aca9d-1450-4c87-99c2-b9b8616e6707" />
+
+
+
