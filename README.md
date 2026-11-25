@@ -67,9 +67,16 @@ src/
 
 <img width="1885" height="596" alt="image" src="https://github.com/user-attachments/assets/58b12c28-26c0-48aa-97f3-91fb87ea2aa8" />
 
+
+
 **Tela Clientes**
 
 <img width="1916" height="601" alt="image" src="https://github.com/user-attachments/assets/6a3aca9d-1450-4c87-99c2-b9b8616e6707" />
+
+
+
+**Tela Inicial no Celular**
+<img width="767" height="895" alt="image" src="https://github.com/user-attachments/assets/0b7385a6-9091-4917-9601-ef8d34c5daa8" />
 
 
 
